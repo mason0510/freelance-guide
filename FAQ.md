@@ -344,8 +344,8 @@
 - [CONTRIBUTING.md](CONTRIBUTING.md) - 贡献指南
 
 **社区：**
-- [GitHub Issues](https://github.com/yourusername/freelance-guide/issues) - 提问和反馈
-- [GitHub Discussions](https://github.com/yourusername/freelance-guide/discussions) - 讨论和交流
+- [GitHub Issues](https://github.com/mason0510/freelance-guide/issues) - 提问和反馈
+- [GitHub Discussions](https://github.com/mason0510/freelance-guide/discussions) - 讨论和交流
 
 ---
 

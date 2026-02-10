@@ -3,8 +3,8 @@
 > **中国版 + 国际版双系统并行，实战验证的接单赚钱指南**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/freelance-guide?style=social)](https://github.com/yourusername/freelance-guide)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/freelance-guide?style=social)](https://github.com/yourusername/freelance-guide)
+[![GitHub stars](https://img.shields.io/github/stars/mason0510/freelance-guide?style=social)](https://github.com/mason0510/freelance-guide)
+[![GitHub forks](https://img.shields.io/github/forks/mason0510/freelance-guide?style=social)](https://github.com/mason0510/freelance-guide)
 [![Disclaimer](https://img.shields.io/badge/Disclaimer-Read%20Full-orange.svg)](DISCLAIMER.md)
 
 ---
@@ -292,14 +292,14 @@ freelance-guide/
 
 如果这个项目对你有帮助，请给个⭐Star支持一下！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/freelance-guide&type=Date)](https://star-history.com/#yourusername/freelance-guide&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=mason0510/freelance-guide&type=Date)](https://star-history.com/#mason0510/freelance-guide&Date)
 
 ---
 
 ## 📞 联系方式
 
-- **问题反馈**：[GitHub Issues](https://github.com/yourusername/freelance-guide/issues)
-- **改进建议**：[GitHub Discussions](https://github.com/yourusername/freelance-guide/discussions)
+- **问题反馈**：[GitHub Issues](https://github.com/mason0510/freelance-guide/issues)
+- **改进建议**：[GitHub Discussions](https://github.com/mason0510/freelance-guide/discussions)
 - **成功案例**：欢迎分享你的故事！
 
 ---

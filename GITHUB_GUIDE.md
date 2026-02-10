@@ -107,7 +107,7 @@ Settings → General
 ### 3. 设置仓库Website
 Settings → General
 ```
-https://yourusername.github.io/freelance-guide
+https://mason0510.github.io/freelance-guide
 ```
 
 ### 4. 启用GitHub Pages（可选）

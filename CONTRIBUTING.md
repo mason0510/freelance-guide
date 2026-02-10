@@ -23,7 +23,7 @@
 
 #### 2. Clone到本地
 ```bash
-git clone https://github.com/yourusername/freelance-guide.git
+git clone https://github.com/mason0510/freelance-guide.git
 cd freelance-guide
 ```
 
@@ -233,8 +233,8 @@ freelance-guide/
 
 **准备好贡献了吗？**
 
-[查看开放Issues](https://github.com/yourusername/freelance-guide/issues)
-[开始Fork](https://github.com/yourusername/freelance-guide/fork)
+[查看开放Issues](https://github.com/mason0510/freelance-guide/issues)
+[开始Fork](https://github.com/mason0510/freelance-guide/fork)
 
 Made with ❤️ by Mason Zhang and Contributors
 
